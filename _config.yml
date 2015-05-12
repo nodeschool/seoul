@@ -1,0 +1,7 @@
+# Site settings
+title: NodeSchool Seoul
+baseurl: '/seoul' # the subpath of your site, e.g. /blog/
+url: 'http://nodeschool.io/seoul/' # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
